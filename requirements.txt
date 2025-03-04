@@ -1,0 +1,7 @@
+streamlit==1.30.0
+pandas==2.2.1
+numpy==1.26.4
+speechrecognition==3.10.1
+plotly==5.18.0
+sounddevice==0.4.6
+wavio==0.0.7
